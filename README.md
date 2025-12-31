@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 An automated data engineering workflow that orchestrates the extraction of cryptocurrency price data on a strict schedule. Built to handle API instability and rate limits gracefully.
-![Bitcoin Price Trend](04_Crypto_Sniper_V2/crypto_price_trend.png)
+![Bitcoin Price Trend](Automated-Crypto-Orchestrator/crypto_price_trend.png)
 
 ## 🛠️ Tech Stack
 * **Orchestration:** Apache Airflow
